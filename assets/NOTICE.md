@@ -1,0 +1,1 @@
+Icons adapted from [Simple Icons](https://github.com/simple-icons/simple-icons). Simple Icons distributes its collection under [CC0-1.0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md). The names and logos belong to their respective owners.
