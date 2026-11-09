@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="200" viewBox="0 0 760 200" role="img" aria-labelledby="stack-title">
+<title id="stack-title">Technology stack</title>
+<defs><clipPath id="frame"><rect width="760" height="200" rx="12"/></clipPath></defs>
+<g clip-path="url(#frame)">
+<rect width="760" height="200" fill="#F4F6FD"/>
+<rect width="156" height="200" fill="#233FB5"/>
+<g font-family="Avenir Next, Arial, sans-serif">
+<text x="20" y="165" font-size="33" font-weight="700" fill="#FFFFFF">Stack</text>
+<text x="180" y="32" font-size="14" font-weight="600" fill="#455572">Languages</text>
+<text x="335" y="32" font-size="18" font-weight="500" fill="#142344">JavaScript, TypeScript, Python, Java, C#</text>
+<path d="M180 58H736" stroke="#D5DDF0"/>
+<text x="180" y="79" font-size="14" font-weight="600" fill="#455572">Web &amp; commerce</text>
+<text x="335" y="79" font-size="18" font-weight="500" fill="#142344">React, Next.js, Shopify, Liquid</text>
+<path d="M180 105H736" stroke="#D5DDF0"/>
+<text x="180" y="126" font-size="14" font-weight="600" fill="#455572">Backend &amp; data</text>
+<text x="335" y="126" font-size="18" font-weight="500" fill="#142344">Spring Boot, .NET, PostgreSQL, Supabase</text>
+<path d="M180 152H736" stroke="#D5DDF0"/>
+<text x="180" y="173" font-size="14" font-weight="600" fill="#455572">Tooling &amp; media</text>
+<text x="335" y="173" font-size="18" font-weight="500" fill="#142344">Git, Docker, Remotion, Blender</text>
+</g>
+</g>
+<rect x=".5" y=".5" width="759" height="199" rx="11.5" fill="none" stroke="#D5DDF0"/>
+</svg>
