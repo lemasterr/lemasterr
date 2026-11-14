@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/panda.gif" width="320" height="180" alt="Pixel panda walking in, sitting down and eating bamboo" />
+<img src="./assets/panda.gif" width="100%" alt="Pixel panda snapping a piece of bamboo and chewing it down" />
 
 
 </div>
